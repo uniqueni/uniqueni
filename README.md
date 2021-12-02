@@ -5,7 +5,7 @@
 
 ### I'm Ni Wang
 
-- 💻 A Normal Coder developer at [4paradigm](https://www.4paradigm.com)
+- 💻 A Normal developer at [4paradigm](https://www.4paradigm.com)
 - 🌱 Currently working in Beijing, China.
 - 🎮 Like playing games, Currently play Sekiro: Shadows Die Twice.
 - ✨ Cloud native / kubernetes / AI / Java / GO / Python
