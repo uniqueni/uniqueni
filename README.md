@@ -1,7 +1,6 @@
 ## Hello Strangers 👋
 
 ---
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 ### I'm Ni Wang
 
@@ -10,3 +9,6 @@
 - 🎮 Like playing games, Currently play Sekiro: Shadows Die Twice.
 - ✨ Cloud native / kubernetes / AI / Java / GO / Python
 - 🐱 I have a so cute cat 
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+
